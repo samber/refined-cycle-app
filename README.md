@@ -14,7 +14,7 @@ Then open Chrome, go to chrome://extensions, and click on "Load unpacked". Then 
 
 ## Warning
 
-This will break regularly. Don't forget to pull this repo frequently.
+This will break regularly. Don't forget to pull this repo frequently. Then refresh extension at chrome://extensions.
 
 If you want to fix it, just make a PR that change the classes name in `cycle.js`.
 
