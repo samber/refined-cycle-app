@@ -1,0 +1,30 @@
+{
+    "name": "refined-cycle-app",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "refined-cycle-app",
+    "icons": {
+        "32": "icon-32.png"
+    },
+    "default_locale": "en",
+    "background": {
+        "scripts": []
+    },
+    "permissions": [],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://alpha.cycle.app/*"
+            ],
+            "js": [
+                "cycle.js"
+            ],
+            "css": [
+                "cycle.css"
+            ],
+            "run_at": "document_end",
+            "all_frames": true
+        }
+    ],
+    "web_accessible_resources": []
+}
