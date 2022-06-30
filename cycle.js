@@ -1,6 +1,6 @@
 
 const columnClass = '.pKguD' // '.Groupstyles__Container-sc-dyn4aa-6';
-const attributeClass = '.kIOkfP' // '.Tagstyles__Name-sc-17bp03z-1';
+const attributeClass = '.bjkVwy' // '.Tagstyles__Name-sc-17bp03z-1';
 const headerClass = '.hfSOqf' //'.Groupstyles__Header-sc-dyn4aa-1';
 
 setInterval(() => {
