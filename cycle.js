@@ -1,7 +1,7 @@
 
 const columnClass = '.fUFQpX' // '.Groupstyles__Container-sc-dyn4aa-6';
 const attributeClass = '.cetXtv' // '.Tagstyles__Name-sc-17bp03z-1';
-const headerClass = '.jVelSj' //'.Groupstyles__Header-sc-dyn4aa-1';
+const headerClass = '.kOKTTE' //'.Groupstyles__Header-sc-dyn4aa-1';
 
 setInterval(() => {
     document.querySelectorAll(columnClass).forEach((elem) => {
